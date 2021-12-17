@@ -6,15 +6,10 @@
 
 header{
     border-top: 80px solid #3651C4;
-    /* display: block;
-    background-color: #3651C4; */
-  
+
 }
 
 form{
-    /* transform: translate(-50, -50); */
-    /* position: relative;
-    top: 25%; */
     text-align: center;
     margin-top: 10%;
 }
@@ -25,7 +20,7 @@ form{
     margin-bottom:1%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .inputDivs{
         padding: 20px; 
         width: 60%;
